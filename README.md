@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MBadar12
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Svelte
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m working on destination project
 
 <!---
 MBadar12/MBadar12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
